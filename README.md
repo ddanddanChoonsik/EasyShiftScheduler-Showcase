@@ -42,7 +42,6 @@ EasyShiftSchedule는 이러한 근무 일정 관리의 불편함을 줄이고,
 누구나 쉽게 근무표를 작성하고 확인할 수 있는 사용자 경험을 제공하는 것을 목표로 했습니다.
 
 ### 주요 목표
-
 - 직원 및 아르바이트생의 근무 일정을 쉽고 편리하게 관리
 - 기존 문서 프로그램을 이용한 근무표 작성 및 수정의 번거로움 감소
 - 주간 단위의 근무 일정을 한눈에 확인할 수 있는 직관적인 UI 제공
@@ -124,7 +123,6 @@ EasyShiftSchedule는 React 기반의 프론트엔드와
 NestJS 기반의 백엔드를 Electron으로 패키징하여
 Windows Desktop Application 형태로 배포합니다.
 
-### Architecture Diagram
 <img width="1376" height="768" alt="아키텍쳐 다이어그램 디자인 예시" src="https://github.com/user-attachments/assets/a33b46da-75c1-4a7a-97b2-12ed86fa8277" />
 
 
