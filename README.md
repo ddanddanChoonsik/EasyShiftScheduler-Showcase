@@ -1,4 +1,7 @@
 # EasyShiftSchedule
+<p align="center">
+   <img width="160" alt="EasyShiftSchedule Application Icon" src="https://github.com/user-attachments/assets/cb193c92-7c51-4c5b-aab1-9c9ad3d747fc" />
+</p>
 
 > 소규모 사업장을 위한 쉽고 직관적인 근무 일정 관리 프로그램
 
