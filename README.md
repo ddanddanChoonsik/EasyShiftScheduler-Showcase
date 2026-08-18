@@ -127,9 +127,9 @@ EasyShiftSchedule는 이러한 근무 일정 관리의 불편함을 줄이고,
 EasyShiftSchedule는 React 기반의 프론트엔드와
 NestJS 기반의 백엔드를 Electron으로 패키징하여
 Windows Desktop Application 형태로 배포합니다.
-
-<img width="1376" height="768" alt="아키텍쳐 다이어그램 디자인 예시" src="https://github.com/user-attachments/assets/a33b46da-75c1-4a7a-97b2-12ed86fa8277" />
-
+<p align="center">
+<img width="935" height="768" alt="아키텍쳐 다이어그램 디자인" src="https://github.com/user-attachments/assets/0c5f5dc7-b4d4-43fb-9e65-0c26658dd4b9" />
+</p>
 
 ## 🖥️ Features & Demo
 ### 👥 직원 관리
@@ -180,7 +180,8 @@ Windows Desktop Application 형태로 배포합니다.
 - 주간 근무표 이미지 다운로드
 
 ### V1.1.0
-> 개발 예정
+> 개발 예정<img width="935" height="768" alt="아키텍쳐 다이어그램 디자인 예시" src="https://github.com/user-attachments/assets/f4584ace-91fa-4876-9b46-ff197a39cd01" />
+
 
 ## 🔧 Development
 
