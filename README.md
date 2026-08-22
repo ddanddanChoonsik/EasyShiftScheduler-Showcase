@@ -132,6 +132,15 @@ EasyShiftSchedule는 이러한 근무 일정 관리의 불편함을 줄이고,
 EasyShiftSchedule는 React 기반의 프론트엔드와
 NestJS 기반의 백엔드를 Electron으로 패키징하여
 Windows Desktop Application 형태로 배포합니다.
+
+### Electron 실행 구조
+
+Electron 실행 시 백엔드(NestJS)를 먼저 실행하고,
+백엔드가 정상적으로 준비될 때까지 로딩 화면을 표시합니다.
+
+백엔드의 HTTP 연결이 확인되면 실제 React 화면을 로딩하여
+사용자가 백엔드 초기화 과정에서 빈 화면을 보지 않도록 구성했습니다.
+
 <p align="center">
 <img width="935" height="768" alt="아키텍쳐 다이어그램 디자인" src="https://github.com/user-attachments/assets/0c5f5dc7-b4d4-43fb-9e65-0c26658dd4b9" />
 </p>
@@ -318,6 +327,7 @@ Windows Desktop Application 형태로 배포합니다.
 - 동일 근무 시간 직원 그룹핑
 - 퇴사자 근무 일정 등록 제한
 - 주간 근무표 이미지 다운로드
+- Electron 실행 시 백엔드 초기화 과정에서 로딩 화면 제공
 
 ### V1.1.0
 > 개발 예정
