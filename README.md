@@ -1,16 +1,17 @@
-# EasyShiftSchedule
+# EasyShiftScheduler
 <p align="center">
-   <img width="160" alt="EasyShiftSchedule Application Icon" src="https://github.com/user-attachments/assets/cb193c92-7c51-4c5b-aab1-9c9ad3d747fc" />
+   <img width="160" alt="EasyShiftScheduler Application Icon" src="https://github.com/user-attachments/assets/cb193c92-7c51-4c5b-aab1-9c9ad3d747fc" />
 </p>
 
 <p align="center">
-  <b>소규모 사업장을 위한 쉽고 직관적인 근무 일정 관리 프로그램</b>
+  <b>프로그램 사용이 익숙하지 않은 소규모 사업장 사장님과 관리자를 위한 근무 일정 관리 프로그램</b>
 </p>
 
 ---
 
 ## 📌 Project Overview
-EasyShiftSchedule는 소규모 사업장의 직원 및 아르바이트생 근무 일정을
+EasyShiftScheduler는 소규모 사업장의 사장님과 관리자가
+직원 및 아르바이트생 근무 일정을
 주간 단위로 쉽고 직관적으로 관리할 수 있도록 제작한
 근무 일정 관리 프로그램입니다.
 
@@ -142,7 +143,7 @@ Electron 실행 시 백엔드(NestJS)를 먼저 실행하고,
 사용자가 백엔드 초기화 과정에서 빈 화면을 보지 않도록 구성했습니다.
 
 <p align="center">
-<img width="935" height="768" alt="아키텍쳐 다이어그램 디자인" src="https://github.com/user-attachments/assets/0c5f5dc7-b4d4-43fb-9e65-0c26658dd4b9" />
+<img width="100%" height="768" alt="아키텍쳐 다이어그램 디자인" src="https://github.com/user-attachments/assets/0d021f88-b80c-4d02-a614-51810a1f3199" />
 </p>
 
 
